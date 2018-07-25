@@ -1,13 +1,14 @@
-## Pablo Nuñez Gonzalez
-## eltercerlugar
-
 Bienvenido a mi repositorio, donde podrás encontrar un resumen de los proyectos y ficheros que puedes encontrar en mi Github y otros lugares interesantes.
-![Este soy yo](/perfil-eltercerlugar.jpg)
-Puedes seguirme en las siguientes redes sociales:
-[LinkedIn](https://www.linkedin.com/in/pablonunezgonzalez/) 
-[Facebook](https://www.facebook.com/pablo.eltercerlugar)
-[Twitter](https://twitter.com/eltercerlugar)
-[Instagram](https://www.instagram.com/fabricotusideas/)
+
+![Este soy yo, eltercerlugar](/perfil-eltercerlugar.jpg)
+#¿Donde puedo contactar contigo?
+#How can I get in touch with you?
+
+
+*[LinkedIn](https://www.linkedin.com/in/pablonunezgonzalez/) 
+*[Facebook](https://www.facebook.com/pablo.eltercerlugar)
+*[Twitter](https://twitter.com/eltercerlugar)
+*[Instagram](https://www.instagram.com/fabricotusideas/)
 
 Para construir esta página web dentro de Github he seguido los tutoriales que proporciona la propia plataforma:
 
