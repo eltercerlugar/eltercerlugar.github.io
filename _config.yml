@@ -1,5 +1,4 @@
-theme: jekyll-theme-tactile
 title: Pablo Nuñez 
 (eltercerlugar)
 description: Estas es la web (creada en Github) de mis proyectos y mis contribuciones.
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
